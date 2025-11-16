@@ -1,9 +1,9 @@
 # Hi, I'm Tom 👋
-**Full Stack Developer** currently working in the **Next.js ecosystem**. Experienced across multiple frameworks and technologies.
+**Full Stack Developer** currently working mainly with **Next.js**, but with experience across many different technologies.
 
 <table>
 <tr>
-<td width="150" style="white-space: nowrap;">Core</td>
+<td width="140" style="white-space: nowrap;">Core</td>
 <td>
 
 ![React](https://img.shields.io/badge/-React-212830?style=for-the-badge&logo=react)
@@ -24,7 +24,7 @@
 
 <table>
 <tr>
-<td width="150" style="white-space: nowrap;">State & Data</td>
+<td width="140" style="white-space: nowrap;">State & Data</td>
 <td>
 
 ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-212830?style=for-the-badge&logo=react-hook-form)
@@ -41,7 +41,7 @@
 
 <table>
 <tr>
-<td width="150" style="white-space: nowrap;">Styling</td>
+<td width="140" style="white-space: nowrap;">Styling</td>
 <td>
 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-212830?style=for-the-badge&logo=tailwind-css)
@@ -53,7 +53,7 @@
 
 <table>
 <tr>
-<td width="150" style="white-space: nowrap;">Testing</td>
+<td width="140" style="white-space: nowrap;">Testing</td>
 <td>
 
 ![Vitest](https://img.shields.io/badge/-Vitest-212830?style=for-the-badge&logo=vitest)
@@ -66,7 +66,7 @@
 
 <table>
 <tr>
-<td width="150" style="white-space: nowrap;">Tools</td>
+<td width="140" style="white-space: nowrap;">Tools</td>
 <td>
 
 ![Turborepo](https://img.shields.io/badge/-Turborepo-212830?style=for-the-badge&logo=turborepo)
@@ -84,7 +84,7 @@
 
 <table>
 <tr>
-<td width="150" style="white-space: nowrap;">CMS</td>
+<td width="140" style="white-space: nowrap;">CMS</td>
 <td>
 
 ![Strapi](https://img.shields.io/badge/-Strapi-212830?style=for-the-badge&logo=strapi)
