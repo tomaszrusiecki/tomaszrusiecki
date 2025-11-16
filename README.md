@@ -1,4 +1,4 @@
-# Hi, I'm Tomek 👋
+# Hi, I'm Tom 👋
 **Full Stack Developer** currently working in the **Next.js ecosystem**. Experienced across multiple frameworks and technologies.
 
 <table>
