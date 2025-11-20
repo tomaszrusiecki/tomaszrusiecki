@@ -1,5 +1,5 @@
 # Hi, I'm Tom 👋
-**Full Stack Developer** currently working mainly with **Next.js**, but with experience across many different technologies.
+**Fullstack Developer** currently working mainly with **Next.js**, but with experience across many different technologies.
 
 <table>
 <tr>
